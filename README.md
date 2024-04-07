@@ -60,8 +60,30 @@ LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab
 
 1 - Auto-encoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Autoencoders/exemplo_autoencoder_1_autoencoder.ipynb)
 
+2 - PCAxAE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Autoencoders/exemplo_autoencoder_2_pcaXAE.ipynb)
 
+3 - Auto-Enconder Denoise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Autoencoders/exemplo_autoencoder_3_denoise.ipynb)
+
+4 - VAE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Autoencoders/exemplo_autoencoder_4_VAE.ipynb)
+
+5 - GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Gans/gan_mnist.ipynb)
+
+6 - DC-GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Gans/DCGAN_CIFAR10.ipynb)
+
+7 - SR-GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Gans/SR-GANs.ipynb)
+
+8 - LLM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/LLMs.ipynb)
+
+9 - ViT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/ViT_FineTunning.ipynb)
 
 ### Detecção de Objetos
 
+1 - Face Mask Detect [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Deteccao_objetos/Face_Mask_SSD.ipynb)
+
+2 - Yolov8 - Helmet vest Detect [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Deteccao_objetos/Helmet-Vest-yolov8-Treinamento.ipynb)
+
 ### Segmentação de Imagens
+
+1 - U-net [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Segmentacao_imagem/u_net.ipynb)
+
+2 - U-net Resnet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Segmentacao_imagem/u_net_resnet.ipynb)
