@@ -20,14 +20,47 @@ Para as aulas será utilizado o Google Colab ou outra ferramenta da sua preferê
 
 ### Convolutional Neural Network - (CNN, Transfering Learning, Style Transfer)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/1_exemplo_MNIST.ipynb)
+1 - MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/1_exemplo_MNIST.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/2_keras_exemplo.ipynb)
+2 - Keras exemplos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/2_keras_exemplo.ipynb)
 
+3 - LeNET [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/3_exemplo_Lenet_5.ipynb)
+
+4 - Alexnet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/4_exemplo_alexnet.ipynb)
+
+5 - VGG16 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/5_exemplo_VGG16.ipynb)
+
+6 - Googlenet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/6_exemplo_GoogleNet.ipynb)
+
+7 - Data Augmentation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/7_data_augmentation.ipynb)
+
+8 - Transfering Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/8_Transfering_Learning-VGG19.ipynb)
+
+9 - Deep Dream [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/Deep_Dream_example.ipynb)
+
+10 - Style Transfer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/Style_Transfer.ipynb)
+
+Mini Projeto [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/CNNS/Mini_Projeto_1.ipynb)
 
 ### Recorrent Neural Network - (RNN, LSTM, GRU)
 
+1 - RNN 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_RNN.ipynb)
+
+2 - RNN 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_2_RNN.ipynb)
+
+LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM_Explicado.ipynb)
+
+3 - LSTM 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_LSTM.ipynb)
+
+4 - LSTM 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_2_LSTM.ipynb)
+
+5 - GRU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_GRU.ipynb)
+
 ### Generative Network - (Auto-encoders, GANs, Transformers)
+
+1 - Auto-encoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Autoencoders/exemplo_autoencoder_1_autoencoder.ipynb)
+
+
 
 ### Detecção de Objetos
 
