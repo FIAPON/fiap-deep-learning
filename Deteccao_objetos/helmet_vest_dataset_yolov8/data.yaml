@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['helmet', 'no-helmet', 'no-vest', 'vest']
+
+roboflow:
+  workspace: helmet-and-vest-detection
+  project: helmet-vest-detection-9esst
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/helmet-and-vest-detection/helmet-vest-detection-9esst/dataset/2
