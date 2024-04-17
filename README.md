@@ -90,9 +90,9 @@ LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab
 
 ### Transformers
 
-1 - Transformers 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+1 - Transformers 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/transformers_1.ipynb)
 
-2 - Transformers 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+2 - Transformers 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/transformers_2.ipynb)
 
 3 - LLMs OpenAI [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/LLMs.ipynb)
 
