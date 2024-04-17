@@ -72,10 +72,6 @@ LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab
 
 7 - SR-GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Gans/SR-GANs.ipynb)
 
-8 - LLM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/LLMs.ipynb)
-
-9 - ViT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/ViT_FineTunning.ipynb)
-
 ### Detecção de Objetos
 
 1 - Face Mask Detect [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Deteccao_objetos/Face_Mask_SSD.ipynb)
