@@ -87,3 +87,13 @@ LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab
 1 - U-net [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Segmentacao_imagem/u_net.ipynb)
 
 2 - U-net Resnet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Segmentacao_imagem/u_net_resnet.ipynb)
+
+### Transformers
+
+1 - Transformers 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+2 - Transformers 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+3 - LLMs OpenAI [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Transformers/LLMs.ipynb)
+
+4 - Vision Transformer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//FIAPON/fiap-deep-learning/blob/main/Transformers/ViT_FineTunning.ipynb)
