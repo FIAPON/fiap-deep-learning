@@ -64,7 +64,7 @@ LSTM Wordland [![Open In Colab](https://colab.research.google.com/assets/colab-b
 
 LSTM Tweets [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/StackedLSTMs.ipynb)
 
-Mini Projeto 2 - Geração Auto Legenhdas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/Mini_projeto_2.ipynb)
+Mini Projeto 2 - Geração Auto Legendas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/Mini_projeto_2.ipynb)
 
 ### Generative Network - (Auto-encoders, GANs, Transformers)
 
