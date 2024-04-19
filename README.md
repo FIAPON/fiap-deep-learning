@@ -62,6 +62,8 @@ LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab
 
 LSTM Wordland [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM-NLP01.ipynb)
 
+LSTM Tweets [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/StackedLSTMs.ipynb)
+
 ### Generative Network - (Auto-encoders, GANs, Transformers)
 
 1 - Auto-encoder [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/Autoencoders/exemplo_autoencoder_1_autoencoder.ipynb)
