@@ -54,7 +54,9 @@ LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab
 
 4 - LSTM 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_2_LSTM.ipynb)
 
-5 - GRU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_GRU.ipynb)
+5 - LSTM Passagers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM-passagers.ipynb)
+
+6 - GRU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_GRU.ipynb)
 
 ### Generative Network - (Auto-encoders, GANs, Transformers)
 
