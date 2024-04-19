@@ -50,7 +50,7 @@ Mini Projeto [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 
 LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM_Explicado.ipynb)
 
-3 - LSTM 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM_alfabeto.ipynb)
+3 - LSTM alfabeto [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM_alfabeto.ipynb)
 
 4 - LSTM 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_LSTM.ipynb)
 
