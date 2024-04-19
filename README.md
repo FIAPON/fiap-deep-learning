@@ -50,13 +50,15 @@ Mini Projeto [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 
 LSTM Intuição [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM_Explicado.ipynb)
 
-3 - LSTM 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_LSTM.ipynb)
+3 - LSTM 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM_alfabeto.ipynb)
 
-4 - LSTM 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_2_LSTM.ipynb)
+4 - LSTM 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_LSTM.ipynb)
 
-5 - LSTM Passagers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM-passagers.ipynb)
+5 - LSTM 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_2_LSTM.ipynb)
 
-6 - GRU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_GRU.ipynb)
+6 - LSTM Passagers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/LSTM-passagers.ipynb)
+
+7 - GRU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-deep-learning/blob/main/RNNS/exemplo_1_GRU.ipynb)
 
 ### Generative Network - (Auto-encoders, GANs, Transformers)
 
